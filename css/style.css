@@ -1,0 +1,75 @@
+/* My simple website */
+.red_header {
+  font-size: 2em;
+  color: white;
+  background-color: #a52a2a;
+  text-align: center;
+}
+/* /* My simple website Синий текст */
+.blue_label {
+  color: blue;
+}
+/* My simple website главный текст*/
+.main_container {
+  font-size: 18px;
+}
+/* My simple website sunset */
+.sunset {
+  min-width: 100%;
+}
+/* My simple website border mark*/
+.border {
+  max-width: 20%;
+  border-color: black;
+  border-width: 3px;
+  border-style: dashed;
+}
+/* My simple website mark centre*/
+.img_centre {
+  text-align: center;
+}
+/* My simple website footer */
+.website_footer {
+  color: white;
+  background-color: black;
+  font-size: 20px;
+  text-align: center;
+}
+/* Photoshop page backgroung */
+.Photoshop_Page{
+  background-color:#121116;
+}
+/* Photoshop Page logo.svg */
+.logo{
+  text-align: center; 
+  margin: 20px 0 51px 900px;
+}
+/* Photoshop Page WE ARE SOCIALE */
+.social{
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  font-family: PMingLiU-ExtB;
+  margin: 87px 0 0 890px;
+}
+/* Photoshop Page Separator logo */
+.separator{
+margin: 20px 845px 20px 845px;
+}
+/* Photoshop Page facebook logo */
+.facebook{
+  margin-left: 885px; 
+  text-align: center; 
+}
+.twitter{
+  margin: 0 35px 0 35px;
+}
+.Dribble{
+  margin: 0 0 0 30px;
+}
+/* Photoshop Page footer */
+.photoshop_footer{
+  color: white;
+  font-size: 15px;  
+  margin: 90px 0 40px 855px;
+}
